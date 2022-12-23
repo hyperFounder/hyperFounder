@@ -1,8 +1,8 @@
-### Hello World 🌍  
+### Hello World   🌍  
 
 Welcome! 
 
-I am Ryan. I am based in Birmingham, UK.
+I am based in Birmingham, UK.
 
 ## 💻 Projects
 * [COVID 19 TRACKER (Graph Display and Clickable Globe UI)](https://suyash-srivastava.github.io/suyashsrivastava/COVID19)
