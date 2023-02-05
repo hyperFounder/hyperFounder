@@ -5,7 +5,8 @@ Welcome! ¡Bienvenido! Benvenuto! Willkommen!
 我叫莱恩。 我来自英国伯明翰。
 
 ## Projects
-* [TicTacToe](https://github.com/hyperFounder/TicTacToe)
+* [Tic-Tac-Toe](https://github.com/hyperFounder/TicTacToe)
+* [Notes for Java](https://github.com/hyperFounder/java-notes)
 
 ### Programming Languages:
 
