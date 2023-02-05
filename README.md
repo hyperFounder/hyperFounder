@@ -5,7 +5,7 @@ Welcome! ¡Bienvenido! Benvenuto! Willkommen!
 我叫莱恩。 我来自英国伯明翰。
 
 ## Projects
-* [Weather App (from OpenWeather API)](https://suyash-srivastava.github.io/suyashsrivastava/Weather)
+* [TicTacToe]([https://suyash-srivastava.github.io/suyashsrivastava/Weather](https://github.com/hyperFounder/TicTacToe))
 
 ### Programming Languages:
 
