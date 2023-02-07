@@ -1,8 +1,6 @@
 ### Hello World   🌍  
 
-Welcome! ¡Bienvenido! Benvenuto! Willkommen!
-
-我叫莱恩。 我来自英国伯明翰。
+Welcome! ¡Bienvenido! Bem Vindo! 
 
 ## Projects
 * [Tic-Tac-Toe](https://github.com/hyperFounder/TicTacToe)
