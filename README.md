@@ -1,13 +1,9 @@
-### Hello World   🌍  
-
-Welcome! ¡Bienvenido!
-
-## Projects
+#### Projects
 * [Tic-Tac-Toe](https://github.com/hyperFounder/TicTacToe)
 * [Notes for Java](https://github.com/hyperFounder/java-notes)
 * [Basilisk Game](https://github.com/hyperFounder/Basilisk-Game)
 
-### Programming Languages:
+#### Programming Languages:
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
