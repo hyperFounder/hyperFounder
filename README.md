@@ -1,6 +1,6 @@
 ### Hello World   🌍  
 
-Welcome! ¡Bienvenido! Bem Vindo! 
+Welcome! ¡Bienvenido!
 
 ## Projects
 * [Tic-Tac-Toe](https://github.com/hyperFounder/TicTacToe)
