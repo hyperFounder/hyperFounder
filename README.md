@@ -1,7 +1,5 @@
 #### Projects
 * [Tic-Tac-Toe](https://github.com/hyperFounder/TicTacToe)
-* [Notes for Java](https://github.com/hyperFounder/java-notes)
-* [Basilisk Game](https://github.com/hyperFounder/Basilisk-Game)
 
 #### Programming Languages:
 
