@@ -9,7 +9,7 @@ My interests in Theoretical Machine Learning include
 - validity criteria for partitional and hierarchial algorithms (silhouette coefficient, cophenetic correlation, etc.)
 - Metaheuristics and local search (2-opt, Metropolis–Hastings algorithm)
 - optimization algorithms (hill climbing, simulated annealing, gradient descent)
-- dimensionality reduction
+- Unsupervised Learning
 - randomized algorithms (monte carlo, quicksort, las vegas)
 
 
