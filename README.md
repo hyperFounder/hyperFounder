@@ -6,12 +6,11 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 
 My interests in Theoretical Machine Learning include
 
-- semantics of programming languages, including denotational, operational and game semantics
-- computational effects, both individually and generally
-- Unsupervised Validity Criteria for Partitional and Hierarchial Algorithms 
-- call-by-push-value
+- validity criteria for partitional and hierarchial algorithms (silhouette coefficient, cophenetic correlation, etc.)
+- Metaheuristics and local search (2-opt, Metropolis–Hastings algorithm)
+- optimization algorithms (hill climbing, simulated annealing, gradient descent)
 - dimensionality reduction
-- category theory, in particular categorical semantics and coalgebra.
+- randomized algorithms (monte carlo, quicksort, las vegas)
 
 
 ## Contact information
