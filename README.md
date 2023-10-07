@@ -6,11 +6,11 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 
 My interests in Theoretical Machine Learning include
 
-- validity criteria for partitional and hierarchial algorithms (silhouette coefficient, cophenetic correlation, etc.)
-- Metaheuristics and local search (2-opt, Metropolis–Hastings algorithm)
+- Metaheuristics and local search
 - optimization algorithms (hill climbing, simulated annealing, gradient descent)
+- validity criteria for partitional and hierarchial algorithms (silhouette coefficient, cophenetic correlation, etc.)
 - Unsupervised Learning
-- randomized algorithms (monte carlo, quicksort, las vegas)
+- randomized algorithms
 
 
 ## Contact information
