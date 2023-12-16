@@ -15,7 +15,7 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 - proof theory and typed λ-calculus 
 - functional programming
 - optimization algorithms (Hill Climbing, Simulated annealing)
-- Unsupervised learning, in particular partitional and hierarchial clustering
+- Unsupervised learning, in particular hierarchial clustering
 
 ### Personal
 
