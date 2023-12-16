@@ -14,10 +14,8 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 
 - proof theory and typed λ-calculus 
 - functional programming
-- System Modelling and UML
-- Agile Theory and Requirements Engineering
-
-
+- Designing Object Oriented and Component-based Systems with UML
+- Agile theory and software architecture styles
 
 ### Personal
 
