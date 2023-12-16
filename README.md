@@ -1,21 +1,24 @@
-# Welcome 👋 
+# Ryan Ribeiro
 
-I am a member of the [Computer Science Society](https://cssbham.com/) at the University of Birmingham.
+- An undergrad studying Computer Science
+- School of Computer Science, University of Birmingham
+- Edgbaston, Birmingham, B15 2TT, UK
+- email: rxr274@student.bham.ac.uk
+
+___
+
+
+I am a member of the [Computer Science Society](https://cssbham.com/) at the University of Birmingham, and my interests include
 
 <p></p>
 
-My interests in Theoretical Machine Learning include
-
-- validity criteria for partitional and hierarchial algorithms (silhouette coefficient, cophenetic correlation, etc.)
-- Metaheuristics and local search
-- optimization algorithms
-- Unsupervised Learning
-- randomized algorithms
+- proof theory and typed λ-calculus 
+- functional programming
+- System Modelling and UML
+- Agile Theory and Requirements Engineering
 
 
-## Contact information
 
-- School of Computer Science, University of Birmingham
-- Edgbaston, Birmingham, B15 2TT, UK
-- RXR274@student.bham.ac.uk
+### Personal
 
+- [Recipe](https://www.foodandwine.com/recipes/bacalhau-bras-salt-cod-eggs-and-potatoes) for Portuguese-style Bacalhau à Brás
