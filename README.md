@@ -14,8 +14,8 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 
 - proof theory and typed λ-calculus 
 - functional programming
-- Designing Object Oriented and Component-based Systems with UML
-- Agile theory and software architecture styles
+- optimization algorithms (Hill Climbing, Simulated annealing)
+- Unsupervised learning, in particular partitional and hierarchial clustering
 
 ### Personal
 
