@@ -12,10 +12,10 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 
 <p></p>
 
-- proof theory and typed λ-calculus 
-- functional programming
-- optimization algorithms (Hill Climbing, Simulated annealing)
-- Unsupervised learning, in particular hierarchial clustering
+- proof theory and typed λ-calculus
+- functional and imperative programming
+- category theory
+
 
 ### Personal
 
