@@ -12,7 +12,7 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 
 <p></p>
 
-- proof theory and typed λ-calculus
+- structural proof theory and typed λ-calculus
 - functional and imperative programming
 - category theory
 
