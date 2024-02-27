@@ -12,9 +12,9 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 
 <p></p>
 
-- classical and intuitionistic logic
 - multithreaded programming in C (race conditions, locking mechanisms, etc)
-- information theory (applications to ML), maximum likelihood
+- full stack dev (nosql, sql, mongoDB, react, js, css tailwind)
+- probabilistic machine learning, information theory, maximum likelihood
 
 
 ### Personal
