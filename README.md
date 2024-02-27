@@ -12,9 +12,9 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 
 <p></p>
 
-- structural proof theory and typed λ-calculus
-- functional and imperative programming
-- category theory
+- classical and intuitionistic logic
+- multithreaded programming in C (race conditions, locking mechanisms, etc)
+- information theory (applications to ML), maximum likelihood
 
 
 ### Personal
