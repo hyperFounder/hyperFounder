@@ -13,7 +13,7 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 <p></p>
 
 - multithreaded programming in C (race conditions, locking mechanisms, etc)
-- full stack dev (nosql, sql, mongoDB, react, js, css tailwind)
+- classical and intuitionistic logic
 - probabilistic machine learning, information theory, maximum likelihood
 
 
