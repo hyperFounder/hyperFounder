@@ -1,6 +1,5 @@
 # Ryan Ribeiro
 
-- An undergrad studying Computer Science
 - School of Computer Science, University of Birmingham
 - Edgbaston, Birmingham, B15 2TT, UK
 - email: rxr274@student.bham.ac.uk
@@ -12,9 +11,9 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 
 <p></p>
 
-- multithreaded programming in C (race conditions, locking mechanisms, etc)
-- classical and intuitionistic logic
-- probabilistic machine learning, information theory, maximum likelihood
+- genetic algorithms in drug discovery
+- metaheuristics and evolutionary computation
+- advanced cryptography
 
 
 ### Personal
