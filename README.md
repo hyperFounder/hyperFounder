@@ -13,7 +13,7 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 
 - genetic algorithms in drug discovery
 - metaheuristics and evolutionary computation
-- advanced cryptography
+- information theory
 
 
 ### Personal
