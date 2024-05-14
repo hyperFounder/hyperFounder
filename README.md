@@ -11,8 +11,8 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 
 <p></p>
 
-- genetic algorithms in drug discovery
 - metaheuristics and evolutionary computation
+- genetic algorithms
 - information theory
 
 
