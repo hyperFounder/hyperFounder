@@ -12,7 +12,6 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 <p></p>
 
 - multithreaded programming in C (race conditions, locking mechanisms, etc),
-- ARM Cortex-M3/M4 microcontroller programming.
 - I also enjoy probabilistic machine learning, in particular maximum likelihood and information theory.
 
 
