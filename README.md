@@ -14,6 +14,9 @@ I am a member of the [Computer Science Society](https://cssbham.com/) at the Uni
 - multithreaded programming in C (race conditions, locking mechanisms, etc),
 - I also enjoy probabilistic machine learning, in particular maximum likelihood and information theory.
 
+## Codewars
+
+- https://www.codewars.com/users/hyperFounder
 
 ### Personal
 
