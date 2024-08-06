@@ -5,7 +5,7 @@
 - email: rxr274@student.bham.ac.uk
 ___
 
-I work in the finance industry as an actuary, and have extensive knowledge in
+I start working in finance as an actuary in September of 2024, and have extensive knowledge in
 
 - algorithmic trading (MQL5)
-- trading robots, expert advisors, etc.
+- trading robots, expert advisors for the Metatrader platform.
